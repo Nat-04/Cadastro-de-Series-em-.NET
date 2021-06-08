@@ -1,1 +1,2 @@
-# Cadastro-de-Series-em-.NET
+# Cadastro de Séries em .NET
+Bootcamp_LocalizaLabs
